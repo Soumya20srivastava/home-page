@@ -12,7 +12,7 @@
     font-size: 16px;
     line-height: 1.6;
     background-color: #fffcfa86;
-    background-image: url(background.png);
+    background-image: url("background");
   }
   
   .container {
@@ -85,7 +85,7 @@
   
   /* Hero section */
   .hero {
-    background-image: url('brown-grunge-texture.jpg');
+    background-image: url('"C:\xampp\htdocs\project\.html\brown-grunge-texture.jpg"');
     background-size: cover;
     background-position: center;
     height: 600px;
